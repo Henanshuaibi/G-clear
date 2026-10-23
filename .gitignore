@@ -1,0 +1,6 @@
+/build/
+/tools/
+*.keystore
+*.jks
+*.idsig
+*password*

@@ -1,0 +1,9 @@
+<resources>
+ <string name="service_description">在你选择的 APP 中读取界面元素，点击开屏广告的跳过按钮；开启跳转防护时，检测到广告期间的跨 APP 跳转后尝试返回。不保存屏幕内容，不联网。无法保证识别全部广告或阻止所有跳转，可随时在 G clear 暂停或在系统关闭服务。</string>
+ <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+  <item name="android:fontFamily">sans</item><item name="android:colorAccent">#19795F</item>
+  <item name="android:windowLightStatusBar">true</item><item name="android:statusBarColor">#F5F6F3</item>
+  <item name="android:navigationBarColor">#F5F6F3</item><item name="android:windowLightNavigationBar">true</item>
+  <item name="android:windowBackground">#F5F6F3</item>
+ </style>
+</resources>
